@@ -20,7 +20,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 	-->
   </head>
   <body>
-  <h1 id="1500000001">J2EE作业，学号：1507052436</h1>
+  <h1 id="1507052436">J2EE作业，学号：1507052436</h1>
   <h1><a href="${pageContext.request.contextPath}/entry.action">进入书城</a></h1>
   </body>
 </html>
